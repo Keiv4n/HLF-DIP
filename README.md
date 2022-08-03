@@ -23,7 +23,7 @@ ___
 
 **Getting Started:**
 
-You just need to run demo.ipynb to reproduce the result on the Washington DC Mall dataset (Case 3). For using your own dataset, you need to copy your dataset to the "data" folder and change the `file_name  = 'data/WDC_Case3.mat'` in the notebook.
+You just need to run `demo.ipynb` to reproduce the result on the Washington DC Mall dataset (Case 3). For using your own dataset, you need to copy your dataset to the "data" folder and change the `file_name  = 'data/WDC_Case3.mat'` in the notebook.
 
 ___
 
